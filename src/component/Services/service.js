@@ -8,7 +8,7 @@ const Services = () => {
             title: "Documentation and Attestation Services",
             description: "Reliable documentation and attestation services for secure, hassle-free authentication of your important documents.",
             date: "November 4, 2021",
-            alt: "Suven Pharmaceuticals"
+            alt: "Estate planning attorney for high-net-worth individual"
         },
         {
             image: "https://pinnacle.org.in/wp-content/uploads/2024/05/FSSAI-License-img1.png",
