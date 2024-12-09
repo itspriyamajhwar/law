@@ -13,7 +13,7 @@ const Home = () => {
                 <div className="Homecontent">
                     <img 
                         src="https://www.expertlawfirm.com/wp-content/uploads/2023/07/AdobeStock_571762531-1024x585.jpg" 
-                        alt="Deenis Law Chamber Logo"  width='70%'
+                        alt="Deenis Law Chamber Logo/Experienced family law attorney near me"  width='70%'
                     />
                     <div className="text">
                         <h2>Welcome to Deenis Law Chamber</h2>
