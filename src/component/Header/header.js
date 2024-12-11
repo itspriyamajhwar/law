@@ -14,12 +14,14 @@ const Header = () => {
 
   return (
     <header className="header">
-      <div className="container">
-        {/* Logo */}
-        <div className="logo">
+    <div className="container">
+      {/* Logo */}
+      <div className="logo">
+        <a href="#home" onClick={closeMenu}>
           <span>DEENIS</span>
           <span className="highlight">LAW CHAMBER</span>
-        </div>
+        </a>
+      </div>
 
         {/* Hamburger Icon */}
         <div className="hamburger" onClick={toggleMenu}>
